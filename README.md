@@ -1,2 +1,27 @@
-# projeto-01-analise-vendas-sql
-Projeto criado para estudos utilizando dados fictícios de vendas e as tecnologias PostgreSQL e SQL
+# Projeto 01 - Análise de Vendas com SQL
+
+## Sobre o projeto
+
+Projeto desenvolvido para analisar dados fictícios
+de vendas utilizando PostgreSQL e SQL.
+
+## Objetivo
+
+Identificar padrões de vendas, produtos mais vendidos,
+categorias com maior faturamento e comportamento dos clientes.
+
+## Tecnologias
+
+- PostgreSQL
+- SQL
+- Git
+- GitHub
+
+## Estrutura do projeto
+
+```text
+database/
+├── schema.sql
+├── inserts.sql
+└── queries.sql
+

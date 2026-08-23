@@ -1,0 +1,1001 @@
+id_cliente,nome,cidade,estado,segmento,data_cadastro
+1,Cliente 0001,Recife,PE,Atacado,2025-12-14
+2,Cliente 0002,São Paulo,SP,Corporativo,2025-07-10
+3,Cliente 0003,São Paulo,SP,Varejo,2025-10-21
+4,Cliente 0004,Fortaleza,CE,Corporativo,2025-07-23
+5,Cliente 0005,Maceió,AL,Corporativo,2025-05-08
+6,Cliente 0006,Salvador,BA,Varejo,2025-04-06
+7,Cliente 0007,São Paulo,SP,Serviços,2025-10-15
+8,Cliente 0008,Salvador,BA,Corporativo,2025-05-14
+9,Cliente 0009,Florianópolis,SC,Serviços,2025-04-20
+10,Cliente 0010,Belo Horizonte,MG,Corporativo,2025-12-22
+11,Cliente 0011,Brasília,DF,Serviços,2025-04-13
+12,Cliente 0012,Salvador,BA,Atacado,2025-02-07
+13,Cliente 0013,São Paulo,SP,Atacado,2025-08-16
+14,Cliente 0014,Salvador,BA,Corporativo,2025-12-08
+15,Cliente 0015,Maceió,AL,Varejo,2025-10-09
+16,Cliente 0016,Rio de Janeiro,RJ,Corporativo,2025-06-03
+17,Cliente 0017,Goiânia,GO,Atacado,2025-12-31
+18,Cliente 0018,Florianópolis,SC,Atacado,2025-07-05
+19,Cliente 0019,Rio de Janeiro,RJ,Atacado,2025-03-04
+20,Cliente 0020,João Pessoa,PB,Atacado,2025-05-02
+21,Cliente 0021,Porto Alegre,RS,Serviços,2025-01-14
+22,Cliente 0022,Maceió,AL,Corporativo,2025-08-28
+23,Cliente 0023,Porto Alegre,RS,Atacado,2025-11-10
+24,Cliente 0024,Brasília,DF,Varejo,2025-02-03
+25,Cliente 0025,Natal,RN,Serviços,2025-09-03
+26,Cliente 0026,Rio de Janeiro,RJ,Serviços,2025-07-29
+27,Cliente 0027,Goiânia,GO,Varejo,2025-03-06
+28,Cliente 0028,Maceió,AL,Varejo,2025-08-19
+29,Cliente 0029,São Paulo,SP,Corporativo,2025-03-07
+30,Cliente 0030,Brasília,DF,Atacado,2025-03-08
+31,Cliente 0031,Aracaju,SE,Varejo,2025-03-05
+32,Cliente 0032,Rio de Janeiro,RJ,Atacado,2025-06-05
+33,Cliente 0033,Fortaleza,CE,Atacado,2025-06-15
+34,Cliente 0034,Brasília,DF,Atacado,2025-06-27
+35,Cliente 0035,Rio de Janeiro,RJ,Corporativo,2025-02-10
+36,Cliente 0036,Natal,RN,Atacado,2025-11-22
+37,Cliente 0037,Rio de Janeiro,RJ,Corporativo,2025-03-06
+38,Cliente 0038,Curitiba,PR,Corporativo,2025-11-11
+39,Cliente 0039,Rio de Janeiro,RJ,Varejo,2025-09-15
+40,Cliente 0040,Curitiba,PR,Atacado,2025-10-31
+41,Cliente 0041,Belo Horizonte,MG,Atacado,2025-03-29
+42,Cliente 0042,Curitiba,PR,Corporativo,2025-10-16
+43,Cliente 0043,Recife,PE,Varejo,2025-02-11
+44,Cliente 0044,Recife,PE,Corporativo,2025-11-30
+45,Cliente 0045,João Pessoa,PB,Serviços,2025-11-13
+46,Cliente 0046,Curitiba,PR,Varejo,2025-09-12
+47,Cliente 0047,Brasília,DF,Corporativo,2025-11-25
+48,Cliente 0048,Natal,RN,Serviços,2025-05-06
+49,Cliente 0049,Porto Alegre,RS,Serviços,2025-06-02
+50,Cliente 0050,São Paulo,SP,Varejo,2025-12-19
+51,Cliente 0051,Recife,PE,Atacado,2025-08-14
+52,Cliente 0052,Aracaju,SE,Serviços,2025-08-26
+53,Cliente 0053,João Pessoa,PB,Corporativo,2025-11-07
+54,Cliente 0054,Fortaleza,CE,Corporativo,2025-06-13
+55,Cliente 0055,Florianópolis,SC,Corporativo,2025-07-24
+56,Cliente 0056,Fortaleza,CE,Corporativo,2025-09-21
+57,Cliente 0057,Rio de Janeiro,RJ,Varejo,2025-06-13
+58,Cliente 0058,João Pessoa,PB,Serviços,2025-03-04
+59,Cliente 0059,Natal,RN,Serviços,2025-05-07
+60,Cliente 0060,Fortaleza,CE,Varejo,2025-01-26
+61,Cliente 0061,Natal,RN,Serviços,2025-11-12
+62,Cliente 0062,Aracaju,SE,Atacado,2025-03-23
+63,Cliente 0063,Goiânia,GO,Corporativo,2025-10-23
+64,Cliente 0064,Florianópolis,SC,Corporativo,2025-04-08
+65,Cliente 0065,Porto Alegre,RS,Atacado,2025-09-13
+66,Cliente 0066,Rio de Janeiro,RJ,Serviços,2025-09-13
+67,Cliente 0067,Brasília,DF,Corporativo,2025-09-12
+68,Cliente 0068,Recife,PE,Varejo,2025-07-21
+69,Cliente 0069,Rio de Janeiro,RJ,Serviços,2025-05-04
+70,Cliente 0070,João Pessoa,PB,Corporativo,2025-01-25
+71,Cliente 0071,Recife,PE,Corporativo,2025-09-11
+72,Cliente 0072,Belo Horizonte,MG,Serviços,2025-05-27
+73,Cliente 0073,Rio de Janeiro,RJ,Varejo,2025-02-25
+74,Cliente 0074,Aracaju,SE,Atacado,2025-05-16
+75,Cliente 0075,Florianópolis,SC,Corporativo,2025-07-26
+76,Cliente 0076,Maceió,AL,Varejo,2025-07-25
+77,Cliente 0077,Recife,PE,Atacado,2025-07-05
+78,Cliente 0078,Rio de Janeiro,RJ,Corporativo,2025-02-07
+79,Cliente 0079,Aracaju,SE,Serviços,2025-10-09
+80,Cliente 0080,Natal,RN,Varejo,2025-03-07
+81,Cliente 0081,Salvador,BA,Serviços,2025-07-11
+82,Cliente 0082,Porto Alegre,RS,Corporativo,2025-10-13
+83,Cliente 0083,Maceió,AL,Atacado,2025-04-12
+84,Cliente 0084,Belo Horizonte,MG,Serviços,2025-09-14
+85,Cliente 0085,Recife,PE,Varejo,2025-01-20
+86,Cliente 0086,Fortaleza,CE,Corporativo,2025-08-31
+87,Cliente 0087,Rio de Janeiro,RJ,Serviços,2025-03-18
+88,Cliente 0088,Belo Horizonte,MG,Atacado,2025-06-17
+89,Cliente 0089,Brasília,DF,Corporativo,2025-03-25
+90,Cliente 0090,Aracaju,SE,Corporativo,2025-10-31
+91,Cliente 0091,Maceió,AL,Serviços,2025-12-29
+92,Cliente 0092,Belo Horizonte,MG,Corporativo,2025-09-01
+93,Cliente 0093,Goiânia,GO,Varejo,2025-07-08
+94,Cliente 0094,Maceió,AL,Varejo,2025-08-02
+95,Cliente 0095,Belo Horizonte,MG,Corporativo,2025-12-19
+96,Cliente 0096,Curitiba,PR,Varejo,2025-11-02
+97,Cliente 0097,São Paulo,SP,Corporativo,2025-12-02
+98,Cliente 0098,Porto Alegre,RS,Atacado,2025-01-27
+99,Cliente 0099,Belo Horizonte,MG,Serviços,2025-03-29
+100,Cliente 0100,Rio de Janeiro,RJ,Serviços,2025-03-17
+101,Cliente 0101,Goiânia,GO,Atacado,2025-01-17
+102,Cliente 0102,Belo Horizonte,MG,Varejo,2025-04-08
+103,Cliente 0103,Recife,PE,Serviços,2025-06-10
+104,Cliente 0104,Aracaju,SE,Atacado,2025-07-31
+105,Cliente 0105,Florianópolis,SC,Atacado,2025-07-30
+106,Cliente 0106,Rio de Janeiro,RJ,Serviços,2025-02-01
+107,Cliente 0107,Florianópolis,SC,Atacado,2025-09-23
+108,Cliente 0108,João Pessoa,PB,Corporativo,2025-12-06
+109,Cliente 0109,São Paulo,SP,Serviços,2025-06-10
+110,Cliente 0110,Fortaleza,CE,Serviços,2025-09-30
+111,Cliente 0111,Maceió,AL,Corporativo,2025-12-13
+112,Cliente 0112,Porto Alegre,RS,Corporativo,2025-11-09
+113,Cliente 0113,São Paulo,SP,Atacado,2025-05-07
+114,Cliente 0114,Natal,RN,Corporativo,2025-04-26
+115,Cliente 0115,Natal,RN,Corporativo,2025-12-27
+116,Cliente 0116,João Pessoa,PB,Serviços,2025-06-12
+117,Cliente 0117,São Paulo,SP,Corporativo,2025-10-14
+118,Cliente 0118,Brasília,DF,Corporativo,2025-05-28
+119,Cliente 0119,Salvador,BA,Serviços,2025-07-22
+120,Cliente 0120,Goiânia,GO,Corporativo,2025-03-16
+121,Cliente 0121,Natal,RN,Varejo,2025-05-28
+122,Cliente 0122,Florianópolis,SC,Varejo,2025-06-27
+123,Cliente 0123,Brasília,DF,Serviços,2025-12-02
+124,Cliente 0124,Natal,RN,Serviços,2025-04-20
+125,Cliente 0125,João Pessoa,PB,Corporativo,2025-10-15
+126,Cliente 0126,Florianópolis,SC,Corporativo,2025-03-12
+127,Cliente 0127,Salvador,BA,Atacado,2025-05-05
+128,Cliente 0128,Recife,PE,Atacado,2025-11-23
+129,Cliente 0129,João Pessoa,PB,Varejo,2025-02-21
+130,Cliente 0130,Aracaju,SE,Corporativo,2025-08-30
+131,Cliente 0131,Salvador,BA,Atacado,2025-01-03
+132,Cliente 0132,Rio de Janeiro,RJ,Atacado,2025-07-28
+133,Cliente 0133,Curitiba,PR,Serviços,2025-09-02
+134,Cliente 0134,Curitiba,PR,Atacado,2025-05-28
+135,Cliente 0135,Maceió,AL,Corporativo,2025-11-27
+136,Cliente 0136,Recife,PE,Varejo,2025-11-30
+137,Cliente 0137,Belo Horizonte,MG,Atacado,2025-10-01
+138,Cliente 0138,Florianópolis,SC,Varejo,2025-03-31
+139,Cliente 0139,Aracaju,SE,Atacado,2025-01-19
+140,Cliente 0140,Goiânia,GO,Serviços,2025-09-11
+141,Cliente 0141,Fortaleza,CE,Corporativo,2025-01-20
+142,Cliente 0142,Recife,PE,Corporativo,2025-10-18
+143,Cliente 0143,Belo Horizonte,MG,Varejo,2025-06-21
+144,Cliente 0144,Natal,RN,Serviços,2025-11-25
+145,Cliente 0145,Rio de Janeiro,RJ,Serviços,2025-03-10
+146,Cliente 0146,Goiânia,GO,Serviços,2025-05-20
+147,Cliente 0147,João Pessoa,PB,Varejo,2025-06-19
+148,Cliente 0148,Fortaleza,CE,Serviços,2025-11-28
+149,Cliente 0149,Natal,RN,Atacado,2025-01-08
+150,Cliente 0150,Florianópolis,SC,Corporativo,2025-06-01
+151,Cliente 0151,Belo Horizonte,MG,Atacado,2025-03-31
+152,Cliente 0152,Belo Horizonte,MG,Serviços,2025-08-07
+153,Cliente 0153,Rio de Janeiro,RJ,Corporativo,2025-02-14
+154,Cliente 0154,Aracaju,SE,Varejo,2025-04-05
+155,Cliente 0155,Fortaleza,CE,Serviços,2025-06-15
+156,Cliente 0156,Brasília,DF,Atacado,2025-01-04
+157,Cliente 0157,Natal,RN,Serviços,2025-05-01
+158,Cliente 0158,São Paulo,SP,Corporativo,2025-06-18
+159,Cliente 0159,Natal,RN,Varejo,2025-05-14
+160,Cliente 0160,Curitiba,PR,Corporativo,2025-12-21
+161,Cliente 0161,João Pessoa,PB,Varejo,2025-12-08
+162,Cliente 0162,Salvador,BA,Serviços,2025-06-07
+163,Cliente 0163,Fortaleza,CE,Serviços,2025-12-18
+164,Cliente 0164,Rio de Janeiro,RJ,Corporativo,2025-12-20
+165,Cliente 0165,Salvador,BA,Corporativo,2025-07-08
+166,Cliente 0166,Belo Horizonte,MG,Atacado,2025-04-23
+167,Cliente 0167,Fortaleza,CE,Serviços,2025-03-20
+168,Cliente 0168,São Paulo,SP,Corporativo,2025-08-01
+169,Cliente 0169,Florianópolis,SC,Serviços,2025-10-03
+170,Cliente 0170,Porto Alegre,RS,Atacado,2025-05-07
+171,Cliente 0171,Curitiba,PR,Varejo,2025-09-27
+172,Cliente 0172,São Paulo,SP,Corporativo,2025-02-09
+173,Cliente 0173,Brasília,DF,Varejo,2025-02-01
+174,Cliente 0174,Goiânia,GO,Atacado,2025-10-21
+175,Cliente 0175,Rio de Janeiro,RJ,Atacado,2025-03-26
+176,Cliente 0176,Maceió,AL,Serviços,2025-03-01
+177,Cliente 0177,Curitiba,PR,Atacado,2025-10-26
+178,Cliente 0178,São Paulo,SP,Varejo,2025-09-19
+179,Cliente 0179,São Paulo,SP,Varejo,2025-08-21
+180,Cliente 0180,Fortaleza,CE,Serviços,2025-08-22
+181,Cliente 0181,Belo Horizonte,MG,Varejo,2025-10-14
+182,Cliente 0182,São Paulo,SP,Corporativo,2025-01-12
+183,Cliente 0183,Aracaju,SE,Corporativo,2025-01-02
+184,Cliente 0184,Florianópolis,SC,Atacado,2025-10-24
+185,Cliente 0185,Salvador,BA,Varejo,2025-08-05
+186,Cliente 0186,Maceió,AL,Varejo,2025-10-05
+187,Cliente 0187,Recife,PE,Varejo,2025-08-30
+188,Cliente 0188,Recife,PE,Corporativo,2025-07-29
+189,Cliente 0189,Fortaleza,CE,Atacado,2025-11-25
+190,Cliente 0190,Florianópolis,SC,Serviços,2025-07-11
+191,Cliente 0191,Brasília,DF,Serviços,2025-08-18
+192,Cliente 0192,Goiânia,GO,Serviços,2025-07-12
+193,Cliente 0193,Salvador,BA,Atacado,2025-12-01
+194,Cliente 0194,Goiânia,GO,Corporativo,2025-03-02
+195,Cliente 0195,Fortaleza,CE,Serviços,2025-09-28
+196,Cliente 0196,Fortaleza,CE,Atacado,2025-01-02
+197,Cliente 0197,Porto Alegre,RS,Varejo,2025-06-02
+198,Cliente 0198,São Paulo,SP,Serviços,2025-09-30
+199,Cliente 0199,Aracaju,SE,Atacado,2025-05-07
+200,Cliente 0200,São Paulo,SP,Corporativo,2025-03-21
+201,Cliente 0201,Natal,RN,Atacado,2025-02-27
+202,Cliente 0202,Recife,PE,Serviços,2025-11-11
+203,Cliente 0203,Porto Alegre,RS,Varejo,2025-05-04
+204,Cliente 0204,João Pessoa,PB,Varejo,2025-02-21
+205,Cliente 0205,Belo Horizonte,MG,Varejo,2025-08-17
+206,Cliente 0206,Belo Horizonte,MG,Varejo,2025-05-06
+207,Cliente 0207,Florianópolis,SC,Varejo,2025-07-25
+208,Cliente 0208,São Paulo,SP,Atacado,2025-10-04
+209,Cliente 0209,João Pessoa,PB,Varejo,2025-03-13
+210,Cliente 0210,Rio de Janeiro,RJ,Corporativo,2025-04-30
+211,Cliente 0211,Goiânia,GO,Corporativo,2025-10-23
+212,Cliente 0212,Belo Horizonte,MG,Corporativo,2025-05-02
+213,Cliente 0213,Natal,RN,Atacado,2025-12-05
+214,Cliente 0214,Rio de Janeiro,RJ,Atacado,2025-07-31
+215,Cliente 0215,Natal,RN,Corporativo,2025-02-01
+216,Cliente 0216,Rio de Janeiro,RJ,Atacado,2025-11-17
+217,Cliente 0217,Curitiba,PR,Serviços,2025-10-12
+218,Cliente 0218,São Paulo,SP,Varejo,2025-06-26
+219,Cliente 0219,Curitiba,PR,Serviços,2025-09-26
+220,Cliente 0220,Maceió,AL,Serviços,2025-07-29
+221,Cliente 0221,Fortaleza,CE,Corporativo,2025-07-12
+222,Cliente 0222,Fortaleza,CE,Serviços,2025-05-04
+223,Cliente 0223,Goiânia,GO,Atacado,2025-06-03
+224,Cliente 0224,Goiânia,GO,Atacado,2025-08-26
+225,Cliente 0225,Brasília,DF,Varejo,2025-10-15
+226,Cliente 0226,Aracaju,SE,Serviços,2025-10-13
+227,Cliente 0227,Rio de Janeiro,RJ,Atacado,2025-07-18
+228,Cliente 0228,João Pessoa,PB,Corporativo,2025-04-15
+229,Cliente 0229,Maceió,AL,Varejo,2025-08-19
+230,Cliente 0230,Goiânia,GO,Corporativo,2025-02-17
+231,Cliente 0231,Rio de Janeiro,RJ,Atacado,2025-01-27
+232,Cliente 0232,Natal,RN,Serviços,2025-12-11
+233,Cliente 0233,Belo Horizonte,MG,Varejo,2025-02-07
+234,Cliente 0234,João Pessoa,PB,Atacado,2025-09-03
+235,Cliente 0235,João Pessoa,PB,Corporativo,2025-06-05
+236,Cliente 0236,Brasília,DF,Varejo,2025-04-19
+237,Cliente 0237,Brasília,DF,Atacado,2025-03-02
+238,Cliente 0238,Florianópolis,SC,Serviços,2025-05-05
+239,Cliente 0239,Florianópolis,SC,Atacado,2025-07-23
+240,Cliente 0240,Brasília,DF,Atacado,2025-10-10
+241,Cliente 0241,Maceió,AL,Corporativo,2025-07-14
+242,Cliente 0242,São Paulo,SP,Corporativo,2025-06-07
+243,Cliente 0243,Natal,RN,Corporativo,2025-09-20
+244,Cliente 0244,Brasília,DF,Serviços,2025-08-27
+245,Cliente 0245,Salvador,BA,Serviços,2025-06-13
+246,Cliente 0246,Brasília,DF,Atacado,2025-07-09
+247,Cliente 0247,Maceió,AL,Serviços,2025-01-24
+248,Cliente 0248,Belo Horizonte,MG,Atacado,2025-03-16
+249,Cliente 0249,Recife,PE,Corporativo,2025-10-11
+250,Cliente 0250,Brasília,DF,Serviços,2025-06-01
+251,Cliente 0251,Fortaleza,CE,Atacado,2025-06-18
+252,Cliente 0252,João Pessoa,PB,Serviços,2025-10-19
+253,Cliente 0253,Goiânia,GO,Atacado,2025-09-13
+254,Cliente 0254,Rio de Janeiro,RJ,Corporativo,2025-05-12
+255,Cliente 0255,Porto Alegre,RS,Serviços,2025-11-25
+256,Cliente 0256,Florianópolis,SC,Serviços,2025-08-24
+257,Cliente 0257,Fortaleza,CE,Corporativo,2025-03-28
+258,Cliente 0258,Fortaleza,CE,Serviços,2025-04-05
+259,Cliente 0259,Brasília,DF,Varejo,2025-09-26
+260,Cliente 0260,Recife,PE,Varejo,2025-12-09
+261,Cliente 0261,Recife,PE,Varejo,2025-07-31
+262,Cliente 0262,Fortaleza,CE,Atacado,2025-02-04
+263,Cliente 0263,Florianópolis,SC,Atacado,2025-01-05
+264,Cliente 0264,João Pessoa,PB,Serviços,2025-07-11
+265,Cliente 0265,Recife,PE,Serviços,2025-12-04
+266,Cliente 0266,São Paulo,SP,Varejo,2025-01-04
+267,Cliente 0267,Rio de Janeiro,RJ,Serviços,2025-01-07
+268,Cliente 0268,Recife,PE,Corporativo,2025-10-02
+269,Cliente 0269,Natal,RN,Varejo,2025-09-15
+270,Cliente 0270,Goiânia,GO,Serviços,2025-04-02
+271,Cliente 0271,Salvador,BA,Varejo,2025-09-26
+272,Cliente 0272,Fortaleza,CE,Atacado,2025-04-09
+273,Cliente 0273,Belo Horizonte,MG,Corporativo,2025-07-01
+274,Cliente 0274,Natal,RN,Serviços,2025-02-10
+275,Cliente 0275,Maceió,AL,Serviços,2025-08-24
+276,Cliente 0276,Belo Horizonte,MG,Atacado,2025-12-23
+277,Cliente 0277,João Pessoa,PB,Corporativo,2025-12-17
+278,Cliente 0278,Goiânia,GO,Varejo,2025-12-01
+279,Cliente 0279,Goiânia,GO,Varejo,2025-02-17
+280,Cliente 0280,Aracaju,SE,Serviços,2025-07-13
+281,Cliente 0281,Rio de Janeiro,RJ,Serviços,2025-01-29
+282,Cliente 0282,Curitiba,PR,Varejo,2025-12-26
+283,Cliente 0283,Fortaleza,CE,Varejo,2025-09-13
+284,Cliente 0284,Goiânia,GO,Serviços,2025-11-27
+285,Cliente 0285,Porto Alegre,RS,Corporativo,2025-10-17
+286,Cliente 0286,Goiânia,GO,Varejo,2025-09-28
+287,Cliente 0287,Brasília,DF,Varejo,2025-04-28
+288,Cliente 0288,João Pessoa,PB,Serviços,2025-05-19
+289,Cliente 0289,Recife,PE,Varejo,2025-12-17
+290,Cliente 0290,Brasília,DF,Corporativo,2025-10-06
+291,Cliente 0291,Belo Horizonte,MG,Varejo,2025-04-02
+292,Cliente 0292,Brasília,DF,Corporativo,2025-01-09
+293,Cliente 0293,João Pessoa,PB,Atacado,2025-12-31
+294,Cliente 0294,Goiânia,GO,Serviços,2025-02-09
+295,Cliente 0295,Natal,RN,Atacado,2025-10-16
+296,Cliente 0296,João Pessoa,PB,Serviços,2025-12-13
+297,Cliente 0297,Brasília,DF,Corporativo,2025-07-16
+298,Cliente 0298,Porto Alegre,RS,Atacado,2025-12-19
+299,Cliente 0299,Florianópolis,SC,Varejo,2025-09-14
+300,Cliente 0300,Florianópolis,SC,Corporativo,2025-01-28
+301,Cliente 0301,Salvador,BA,Serviços,2025-04-29
+302,Cliente 0302,Goiânia,GO,Varejo,2025-06-24
+303,Cliente 0303,Belo Horizonte,MG,Serviços,2025-06-17
+304,Cliente 0304,Recife,PE,Corporativo,2025-08-19
+305,Cliente 0305,São Paulo,SP,Atacado,2025-07-02
+306,Cliente 0306,Rio de Janeiro,RJ,Serviços,2025-08-10
+307,Cliente 0307,Fortaleza,CE,Serviços,2025-02-13
+308,Cliente 0308,Porto Alegre,RS,Corporativo,2025-05-07
+309,Cliente 0309,Florianópolis,SC,Varejo,2025-02-12
+310,Cliente 0310,Natal,RN,Atacado,2025-07-14
+311,Cliente 0311,Florianópolis,SC,Atacado,2025-07-19
+312,Cliente 0312,Maceió,AL,Corporativo,2025-02-24
+313,Cliente 0313,Salvador,BA,Varejo,2025-06-07
+314,Cliente 0314,São Paulo,SP,Corporativo,2025-05-19
+315,Cliente 0315,Salvador,BA,Atacado,2025-02-14
+316,Cliente 0316,Fortaleza,CE,Serviços,2025-08-18
+317,Cliente 0317,Rio de Janeiro,RJ,Serviços,2025-02-22
+318,Cliente 0318,Recife,PE,Varejo,2025-07-01
+319,Cliente 0319,Rio de Janeiro,RJ,Varejo,2025-11-02
+320,Cliente 0320,Belo Horizonte,MG,Corporativo,2025-07-17
+321,Cliente 0321,Recife,PE,Corporativo,2025-07-31
+322,Cliente 0322,Aracaju,SE,Varejo,2025-10-14
+323,Cliente 0323,Brasília,DF,Atacado,2025-10-20
+324,Cliente 0324,Rio de Janeiro,RJ,Atacado,2025-12-17
+325,Cliente 0325,Aracaju,SE,Atacado,2025-03-13
+326,Cliente 0326,Natal,RN,Corporativo,2025-05-18
+327,Cliente 0327,São Paulo,SP,Atacado,2025-02-02
+328,Cliente 0328,Fortaleza,CE,Serviços,2025-05-22
+329,Cliente 0329,Aracaju,SE,Corporativo,2025-09-05
+330,Cliente 0330,Porto Alegre,RS,Varejo,2025-07-04
+331,Cliente 0331,Natal,RN,Atacado,2025-11-17
+332,Cliente 0332,São Paulo,SP,Atacado,2025-08-23
+333,Cliente 0333,Salvador,BA,Atacado,2025-06-05
+334,Cliente 0334,Recife,PE,Serviços,2025-06-20
+335,Cliente 0335,Goiânia,GO,Serviços,2025-06-18
+336,Cliente 0336,São Paulo,SP,Corporativo,2025-08-09
+337,Cliente 0337,Goiânia,GO,Atacado,2025-06-03
+338,Cliente 0338,Maceió,AL,Atacado,2025-09-03
+339,Cliente 0339,Maceió,AL,Atacado,2025-07-23
+340,Cliente 0340,Maceió,AL,Corporativo,2025-12-22
+341,Cliente 0341,Curitiba,PR,Serviços,2025-10-22
+342,Cliente 0342,Porto Alegre,RS,Atacado,2025-06-16
+343,Cliente 0343,Aracaju,SE,Corporativo,2025-07-21
+344,Cliente 0344,Maceió,AL,Varejo,2025-10-16
+345,Cliente 0345,João Pessoa,PB,Atacado,2025-12-16
+346,Cliente 0346,Porto Alegre,RS,Varejo,2025-08-25
+347,Cliente 0347,Florianópolis,SC,Atacado,2025-08-13
+348,Cliente 0348,Porto Alegre,RS,Corporativo,2025-12-21
+349,Cliente 0349,Salvador,BA,Serviços,2025-12-11
+350,Cliente 0350,São Paulo,SP,Atacado,2025-11-21
+351,Cliente 0351,Natal,RN,Atacado,2025-05-10
+352,Cliente 0352,Curitiba,PR,Atacado,2025-08-05
+353,Cliente 0353,Porto Alegre,RS,Serviços,2025-02-07
+354,Cliente 0354,São Paulo,SP,Serviços,2025-10-26
+355,Cliente 0355,Aracaju,SE,Serviços,2025-10-06
+356,Cliente 0356,Recife,PE,Corporativo,2025-12-26
+357,Cliente 0357,Brasília,DF,Varejo,2025-02-25
+358,Cliente 0358,Porto Alegre,RS,Atacado,2025-12-03
+359,Cliente 0359,Curitiba,PR,Corporativo,2025-03-27
+360,Cliente 0360,Curitiba,PR,Varejo,2025-10-16
+361,Cliente 0361,Curitiba,PR,Serviços,2025-06-19
+362,Cliente 0362,Porto Alegre,RS,Serviços,2025-02-24
+363,Cliente 0363,Recife,PE,Varejo,2025-05-13
+364,Cliente 0364,João Pessoa,PB,Atacado,2025-08-17
+365,Cliente 0365,Maceió,AL,Serviços,2025-08-26
+366,Cliente 0366,Porto Alegre,RS,Atacado,2025-06-26
+367,Cliente 0367,Recife,PE,Serviços,2025-02-23
+368,Cliente 0368,Natal,RN,Serviços,2025-02-13
+369,Cliente 0369,Salvador,BA,Atacado,2025-06-28
+370,Cliente 0370,Natal,RN,Corporativo,2025-08-22
+371,Cliente 0371,Porto Alegre,RS,Atacado,2025-09-24
+372,Cliente 0372,São Paulo,SP,Corporativo,2025-09-01
+373,Cliente 0373,Salvador,BA,Serviços,2025-12-23
+374,Cliente 0374,São Paulo,SP,Corporativo,2025-02-04
+375,Cliente 0375,Natal,RN,Varejo,2025-12-30
+376,Cliente 0376,Salvador,BA,Varejo,2025-06-25
+377,Cliente 0377,Curitiba,PR,Varejo,2025-12-13
+378,Cliente 0378,Porto Alegre,RS,Atacado,2025-05-05
+379,Cliente 0379,Rio de Janeiro,RJ,Atacado,2025-10-10
+380,Cliente 0380,Fortaleza,CE,Corporativo,2025-10-14
+381,Cliente 0381,Aracaju,SE,Serviços,2025-04-29
+382,Cliente 0382,Porto Alegre,RS,Serviços,2025-11-19
+383,Cliente 0383,Fortaleza,CE,Atacado,2025-11-24
+384,Cliente 0384,Curitiba,PR,Serviços,2025-07-22
+385,Cliente 0385,Recife,PE,Atacado,2025-08-19
+386,Cliente 0386,Belo Horizonte,MG,Serviços,2025-07-19
+387,Cliente 0387,Recife,PE,Atacado,2025-04-16
+388,Cliente 0388,Natal,RN,Varejo,2025-10-23
+389,Cliente 0389,Salvador,BA,Atacado,2025-07-07
+390,Cliente 0390,Maceió,AL,Atacado,2025-08-23
+391,Cliente 0391,Salvador,BA,Corporativo,2025-12-10
+392,Cliente 0392,Goiânia,GO,Serviços,2025-09-28
+393,Cliente 0393,Curitiba,PR,Corporativo,2025-11-02
+394,Cliente 0394,Aracaju,SE,Serviços,2025-10-28
+395,Cliente 0395,Salvador,BA,Corporativo,2025-06-30
+396,Cliente 0396,Goiânia,GO,Serviços,2025-11-13
+397,Cliente 0397,Fortaleza,CE,Corporativo,2025-11-11
+398,Cliente 0398,Belo Horizonte,MG,Varejo,2025-12-11
+399,Cliente 0399,Fortaleza,CE,Corporativo,2025-03-02
+400,Cliente 0400,João Pessoa,PB,Corporativo,2025-03-01
+401,Cliente 0401,Fortaleza,CE,Corporativo,2025-12-22
+402,Cliente 0402,Fortaleza,CE,Serviços,2025-08-03
+403,Cliente 0403,Belo Horizonte,MG,Atacado,2025-10-22
+404,Cliente 0404,Aracaju,SE,Serviços,2025-04-06
+405,Cliente 0405,São Paulo,SP,Atacado,2025-10-12
+406,Cliente 0406,Fortaleza,CE,Serviços,2025-05-28
+407,Cliente 0407,Fortaleza,CE,Atacado,2025-06-11
+408,Cliente 0408,Goiânia,GO,Serviços,2025-11-14
+409,Cliente 0409,Recife,PE,Corporativo,2025-01-05
+410,Cliente 0410,São Paulo,SP,Atacado,2025-04-10
+411,Cliente 0411,Goiânia,GO,Serviços,2025-10-15
+412,Cliente 0412,Rio de Janeiro,RJ,Serviços,2025-07-29
+413,Cliente 0413,Curitiba,PR,Serviços,2025-08-01
+414,Cliente 0414,Florianópolis,SC,Serviços,2025-09-08
+415,Cliente 0415,Fortaleza,CE,Varejo,2025-10-17
+416,Cliente 0416,Recife,PE,Atacado,2025-05-30
+417,Cliente 0417,Recife,PE,Corporativo,2025-04-26
+418,Cliente 0418,Rio de Janeiro,RJ,Corporativo,2025-03-28
+419,Cliente 0419,Porto Alegre,RS,Serviços,2025-10-17
+420,Cliente 0420,Florianópolis,SC,Serviços,2025-10-09
+421,Cliente 0421,Rio de Janeiro,RJ,Varejo,2025-10-21
+422,Cliente 0422,Salvador,BA,Corporativo,2025-10-06
+423,Cliente 0423,Goiânia,GO,Corporativo,2025-10-05
+424,Cliente 0424,Goiânia,GO,Varejo,2025-08-14
+425,Cliente 0425,Rio de Janeiro,RJ,Atacado,2025-08-06
+426,Cliente 0426,Salvador,BA,Atacado,2025-06-02
+427,Cliente 0427,Goiânia,GO,Varejo,2025-08-19
+428,Cliente 0428,Natal,RN,Corporativo,2025-02-14
+429,Cliente 0429,São Paulo,SP,Varejo,2025-05-02
+430,Cliente 0430,João Pessoa,PB,Corporativo,2025-12-30
+431,Cliente 0431,Belo Horizonte,MG,Serviços,2025-03-26
+432,Cliente 0432,Belo Horizonte,MG,Atacado,2025-04-16
+433,Cliente 0433,Goiânia,GO,Atacado,2025-01-31
+434,Cliente 0434,Belo Horizonte,MG,Corporativo,2025-09-30
+435,Cliente 0435,Natal,RN,Atacado,2025-06-15
+436,Cliente 0436,Florianópolis,SC,Corporativo,2025-05-29
+437,Cliente 0437,Belo Horizonte,MG,Corporativo,2025-09-21
+438,Cliente 0438,Brasília,DF,Varejo,2025-03-11
+439,Cliente 0439,Porto Alegre,RS,Serviços,2025-01-31
+440,Cliente 0440,Natal,RN,Atacado,2025-12-26
+441,Cliente 0441,Goiânia,GO,Atacado,2025-05-08
+442,Cliente 0442,Fortaleza,CE,Corporativo,2025-05-07
+443,Cliente 0443,Porto Alegre,RS,Serviços,2025-09-08
+444,Cliente 0444,Fortaleza,CE,Corporativo,2025-11-18
+445,Cliente 0445,Aracaju,SE,Serviços,2025-08-20
+446,Cliente 0446,Salvador,BA,Varejo,2025-07-26
+447,Cliente 0447,Rio de Janeiro,RJ,Corporativo,2025-12-22
+448,Cliente 0448,Brasília,DF,Corporativo,2025-08-21
+449,Cliente 0449,São Paulo,SP,Corporativo,2025-10-25
+450,Cliente 0450,Recife,PE,Varejo,2025-08-23
+451,Cliente 0451,Curitiba,PR,Corporativo,2025-02-02
+452,Cliente 0452,Porto Alegre,RS,Serviços,2025-04-22
+453,Cliente 0453,Aracaju,SE,Atacado,2025-09-11
+454,Cliente 0454,Natal,RN,Corporativo,2025-05-26
+455,Cliente 0455,Maceió,AL,Atacado,2025-10-17
+456,Cliente 0456,Goiânia,GO,Serviços,2025-06-25
+457,Cliente 0457,Brasília,DF,Varejo,2025-01-24
+458,Cliente 0458,Salvador,BA,Serviços,2025-01-09
+459,Cliente 0459,Salvador,BA,Atacado,2025-08-14
+460,Cliente 0460,São Paulo,SP,Varejo,2025-08-08
+461,Cliente 0461,João Pessoa,PB,Atacado,2025-11-29
+462,Cliente 0462,Natal,RN,Atacado,2025-05-21
+463,Cliente 0463,Salvador,BA,Corporativo,2025-05-09
+464,Cliente 0464,Salvador,BA,Corporativo,2025-12-07
+465,Cliente 0465,Brasília,DF,Atacado,2025-01-27
+466,Cliente 0466,Aracaju,SE,Corporativo,2025-12-25
+467,Cliente 0467,Porto Alegre,RS,Atacado,2025-08-08
+468,Cliente 0468,Curitiba,PR,Varejo,2025-12-27
+469,Cliente 0469,Salvador,BA,Varejo,2025-04-20
+470,Cliente 0470,São Paulo,SP,Varejo,2025-03-09
+471,Cliente 0471,Belo Horizonte,MG,Atacado,2025-09-23
+472,Cliente 0472,Curitiba,PR,Serviços,2025-01-05
+473,Cliente 0473,Recife,PE,Corporativo,2025-03-03
+474,Cliente 0474,Goiânia,GO,Serviços,2025-12-22
+475,Cliente 0475,Fortaleza,CE,Serviços,2025-02-06
+476,Cliente 0476,João Pessoa,PB,Serviços,2025-02-15
+477,Cliente 0477,Florianópolis,SC,Varejo,2025-02-22
+478,Cliente 0478,Maceió,AL,Corporativo,2025-06-03
+479,Cliente 0479,Fortaleza,CE,Serviços,2025-03-10
+480,Cliente 0480,Curitiba,PR,Atacado,2025-02-05
+481,Cliente 0481,Rio de Janeiro,RJ,Varejo,2025-11-09
+482,Cliente 0482,Curitiba,PR,Atacado,2025-08-14
+483,Cliente 0483,Maceió,AL,Atacado,2025-11-18
+484,Cliente 0484,Florianópolis,SC,Atacado,2025-07-30
+485,Cliente 0485,Belo Horizonte,MG,Serviços,2025-04-22
+486,Cliente 0486,Salvador,BA,Varejo,2025-03-13
+487,Cliente 0487,Porto Alegre,RS,Varejo,2025-10-29
+488,Cliente 0488,Florianópolis,SC,Serviços,2025-06-29
+489,Cliente 0489,Aracaju,SE,Corporativo,2025-03-13
+490,Cliente 0490,João Pessoa,PB,Corporativo,2025-11-27
+491,Cliente 0491,Salvador,BA,Atacado,2025-10-11
+492,Cliente 0492,Belo Horizonte,MG,Corporativo,2025-12-20
+493,Cliente 0493,Recife,PE,Corporativo,2025-04-16
+494,Cliente 0494,Rio de Janeiro,RJ,Atacado,2025-07-20
+495,Cliente 0495,Natal,RN,Varejo,2025-05-03
+496,Cliente 0496,São Paulo,SP,Serviços,2025-02-27
+497,Cliente 0497,João Pessoa,PB,Serviços,2025-11-23
+498,Cliente 0498,Belo Horizonte,MG,Varejo,2025-09-28
+499,Cliente 0499,Brasília,DF,Varejo,2025-07-04
+500,Cliente 0500,Brasília,DF,Corporativo,2025-03-09
+501,Cliente 0501,Aracaju,SE,Serviços,2025-07-07
+502,Cliente 0502,Rio de Janeiro,RJ,Atacado,2025-08-30
+503,Cliente 0503,Porto Alegre,RS,Varejo,2025-01-09
+504,Cliente 0504,Belo Horizonte,MG,Varejo,2025-01-08
+505,Cliente 0505,Natal,RN,Atacado,2025-01-21
+506,Cliente 0506,Brasília,DF,Varejo,2025-07-23
+507,Cliente 0507,Rio de Janeiro,RJ,Corporativo,2025-11-18
+508,Cliente 0508,Florianópolis,SC,Serviços,2025-08-05
+509,Cliente 0509,Florianópolis,SC,Serviços,2025-02-12
+510,Cliente 0510,Curitiba,PR,Atacado,2025-05-23
+511,Cliente 0511,Salvador,BA,Corporativo,2025-02-10
+512,Cliente 0512,Rio de Janeiro,RJ,Atacado,2025-03-21
+513,Cliente 0513,Rio de Janeiro,RJ,Corporativo,2025-07-20
+514,Cliente 0514,Belo Horizonte,MG,Varejo,2025-06-08
+515,Cliente 0515,Florianópolis,SC,Serviços,2025-05-03
+516,Cliente 0516,Recife,PE,Atacado,2025-02-14
+517,Cliente 0517,Brasília,DF,Serviços,2025-03-01
+518,Cliente 0518,São Paulo,SP,Varejo,2025-06-08
+519,Cliente 0519,Curitiba,PR,Atacado,2025-03-03
+520,Cliente 0520,Recife,PE,Atacado,2025-12-26
+521,Cliente 0521,Recife,PE,Atacado,2025-09-12
+522,Cliente 0522,Maceió,AL,Corporativo,2025-03-27
+523,Cliente 0523,Maceió,AL,Atacado,2025-05-18
+524,Cliente 0524,Florianópolis,SC,Varejo,2025-01-16
+525,Cliente 0525,Maceió,AL,Serviços,2025-05-20
+526,Cliente 0526,Rio de Janeiro,RJ,Varejo,2025-05-15
+527,Cliente 0527,Florianópolis,SC,Varejo,2025-09-12
+528,Cliente 0528,São Paulo,SP,Corporativo,2025-01-29
+529,Cliente 0529,São Paulo,SP,Atacado,2025-07-08
+530,Cliente 0530,Fortaleza,CE,Corporativo,2025-02-22
+531,Cliente 0531,Brasília,DF,Varejo,2025-04-27
+532,Cliente 0532,Florianópolis,SC,Varejo,2025-01-23
+533,Cliente 0533,Goiânia,GO,Varejo,2025-05-06
+534,Cliente 0534,Recife,PE,Serviços,2025-07-06
+535,Cliente 0535,Aracaju,SE,Atacado,2025-04-02
+536,Cliente 0536,Brasília,DF,Varejo,2025-10-11
+537,Cliente 0537,Porto Alegre,RS,Serviços,2025-04-25
+538,Cliente 0538,Maceió,AL,Atacado,2025-08-02
+539,Cliente 0539,Brasília,DF,Corporativo,2025-05-19
+540,Cliente 0540,Goiânia,GO,Varejo,2025-10-20
+541,Cliente 0541,Maceió,AL,Varejo,2025-09-15
+542,Cliente 0542,Curitiba,PR,Varejo,2025-04-02
+543,Cliente 0543,João Pessoa,PB,Varejo,2025-07-25
+544,Cliente 0544,Salvador,BA,Serviços,2025-05-25
+545,Cliente 0545,Porto Alegre,RS,Corporativo,2025-06-17
+546,Cliente 0546,Salvador,BA,Serviços,2025-01-05
+547,Cliente 0547,Maceió,AL,Atacado,2025-05-30
+548,Cliente 0548,Belo Horizonte,MG,Corporativo,2025-11-15
+549,Cliente 0549,João Pessoa,PB,Serviços,2025-07-08
+550,Cliente 0550,Belo Horizonte,MG,Serviços,2025-04-11
+551,Cliente 0551,Florianópolis,SC,Atacado,2025-03-19
+552,Cliente 0552,Recife,PE,Serviços,2025-01-13
+553,Cliente 0553,João Pessoa,PB,Corporativo,2025-11-22
+554,Cliente 0554,Goiânia,GO,Varejo,2025-06-21
+555,Cliente 0555,Recife,PE,Serviços,2025-06-07
+556,Cliente 0556,Salvador,BA,Atacado,2025-09-29
+557,Cliente 0557,João Pessoa,PB,Serviços,2025-09-09
+558,Cliente 0558,Recife,PE,Atacado,2025-12-31
+559,Cliente 0559,Natal,RN,Varejo,2025-01-23
+560,Cliente 0560,Brasília,DF,Atacado,2025-09-24
+561,Cliente 0561,Aracaju,SE,Corporativo,2025-08-23
+562,Cliente 0562,Florianópolis,SC,Varejo,2025-10-25
+563,Cliente 0563,Salvador,BA,Atacado,2025-11-23
+564,Cliente 0564,Goiânia,GO,Serviços,2025-02-08
+565,Cliente 0565,Belo Horizonte,MG,Varejo,2025-08-11
+566,Cliente 0566,Curitiba,PR,Atacado,2025-05-02
+567,Cliente 0567,Natal,RN,Corporativo,2025-06-11
+568,Cliente 0568,Brasília,DF,Serviços,2025-12-25
+569,Cliente 0569,Goiânia,GO,Corporativo,2025-06-12
+570,Cliente 0570,São Paulo,SP,Corporativo,2025-04-30
+571,Cliente 0571,Salvador,BA,Atacado,2025-03-11
+572,Cliente 0572,Porto Alegre,RS,Varejo,2025-03-21
+573,Cliente 0573,Salvador,BA,Atacado,2025-08-19
+574,Cliente 0574,São Paulo,SP,Corporativo,2025-07-28
+575,Cliente 0575,Salvador,BA,Corporativo,2025-04-17
+576,Cliente 0576,São Paulo,SP,Corporativo,2025-08-26
+577,Cliente 0577,Natal,RN,Varejo,2025-02-16
+578,Cliente 0578,Fortaleza,CE,Corporativo,2025-12-27
+579,Cliente 0579,Florianópolis,SC,Varejo,2025-04-21
+580,Cliente 0580,Goiânia,GO,Corporativo,2025-03-17
+581,Cliente 0581,Salvador,BA,Atacado,2025-07-02
+582,Cliente 0582,Aracaju,SE,Varejo,2025-12-13
+583,Cliente 0583,Natal,RN,Corporativo,2025-03-31
+584,Cliente 0584,Recife,PE,Serviços,2025-08-20
+585,Cliente 0585,Rio de Janeiro,RJ,Atacado,2025-02-18
+586,Cliente 0586,São Paulo,SP,Varejo,2025-03-13
+587,Cliente 0587,Salvador,BA,Varejo,2025-02-01
+588,Cliente 0588,Goiânia,GO,Atacado,2025-03-08
+589,Cliente 0589,João Pessoa,PB,Serviços,2025-07-10
+590,Cliente 0590,Curitiba,PR,Varejo,2025-10-26
+591,Cliente 0591,Belo Horizonte,MG,Corporativo,2025-02-08
+592,Cliente 0592,Recife,PE,Varejo,2025-04-12
+593,Cliente 0593,Brasília,DF,Serviços,2025-03-07
+594,Cliente 0594,Salvador,BA,Corporativo,2025-03-04
+595,Cliente 0595,Recife,PE,Serviços,2025-01-26
+596,Cliente 0596,Fortaleza,CE,Serviços,2025-07-22
+597,Cliente 0597,São Paulo,SP,Varejo,2025-07-15
+598,Cliente 0598,Curitiba,PR,Serviços,2025-03-30
+599,Cliente 0599,Maceió,AL,Atacado,2025-04-06
+600,Cliente 0600,Natal,RN,Corporativo,2025-08-17
+601,Cliente 0601,Brasília,DF,Atacado,2025-01-18
+602,Cliente 0602,Belo Horizonte,MG,Atacado,2025-11-28
+603,Cliente 0603,Natal,RN,Serviços,2025-07-30
+604,Cliente 0604,Brasília,DF,Serviços,2025-02-01
+605,Cliente 0605,Salvador,BA,Corporativo,2025-07-16
+606,Cliente 0606,Fortaleza,CE,Serviços,2025-04-13
+607,Cliente 0607,Curitiba,PR,Atacado,2025-11-19
+608,Cliente 0608,Porto Alegre,RS,Varejo,2025-07-15
+609,Cliente 0609,Porto Alegre,RS,Corporativo,2025-09-03
+610,Cliente 0610,Rio de Janeiro,RJ,Serviços,2025-06-26
+611,Cliente 0611,Brasília,DF,Corporativo,2025-07-18
+612,Cliente 0612,Natal,RN,Atacado,2025-01-14
+613,Cliente 0613,Maceió,AL,Atacado,2025-01-16
+614,Cliente 0614,Brasília,DF,Corporativo,2025-01-30
+615,Cliente 0615,Porto Alegre,RS,Serviços,2025-09-29
+616,Cliente 0616,Maceió,AL,Atacado,2025-03-23
+617,Cliente 0617,Salvador,BA,Atacado,2025-12-03
+618,Cliente 0618,João Pessoa,PB,Corporativo,2025-10-01
+619,Cliente 0619,Goiânia,GO,Varejo,2025-04-23
+620,Cliente 0620,Belo Horizonte,MG,Serviços,2025-07-01
+621,Cliente 0621,Brasília,DF,Atacado,2025-04-01
+622,Cliente 0622,João Pessoa,PB,Corporativo,2025-12-24
+623,Cliente 0623,Maceió,AL,Varejo,2025-12-27
+624,Cliente 0624,Florianópolis,SC,Corporativo,2025-10-18
+625,Cliente 0625,Belo Horizonte,MG,Atacado,2025-10-16
+626,Cliente 0626,João Pessoa,PB,Serviços,2025-10-05
+627,Cliente 0627,Natal,RN,Atacado,2025-09-09
+628,Cliente 0628,Recife,PE,Varejo,2025-01-29
+629,Cliente 0629,João Pessoa,PB,Atacado,2025-01-11
+630,Cliente 0630,Rio de Janeiro,RJ,Serviços,2025-01-01
+631,Cliente 0631,Maceió,AL,Atacado,2025-03-08
+632,Cliente 0632,Maceió,AL,Atacado,2025-06-15
+633,Cliente 0633,Recife,PE,Varejo,2025-03-17
+634,Cliente 0634,Belo Horizonte,MG,Atacado,2025-02-26
+635,Cliente 0635,Goiânia,GO,Corporativo,2025-02-07
+636,Cliente 0636,Maceió,AL,Serviços,2025-10-28
+637,Cliente 0637,Salvador,BA,Corporativo,2025-06-04
+638,Cliente 0638,Maceió,AL,Atacado,2025-03-22
+639,Cliente 0639,Florianópolis,SC,Serviços,2025-11-24
+640,Cliente 0640,São Paulo,SP,Corporativo,2025-03-31
+641,Cliente 0641,Florianópolis,SC,Corporativo,2025-04-25
+642,Cliente 0642,Curitiba,PR,Atacado,2025-07-13
+643,Cliente 0643,Natal,RN,Corporativo,2025-03-07
+644,Cliente 0644,Fortaleza,CE,Varejo,2025-12-26
+645,Cliente 0645,Belo Horizonte,MG,Serviços,2025-10-18
+646,Cliente 0646,Recife,PE,Atacado,2025-11-05
+647,Cliente 0647,Maceió,AL,Atacado,2025-11-24
+648,Cliente 0648,Belo Horizonte,MG,Varejo,2025-09-12
+649,Cliente 0649,Fortaleza,CE,Corporativo,2025-02-09
+650,Cliente 0650,João Pessoa,PB,Corporativo,2025-06-13
+651,Cliente 0651,Fortaleza,CE,Varejo,2025-12-29
+652,Cliente 0652,Curitiba,PR,Corporativo,2025-08-17
+653,Cliente 0653,Recife,PE,Corporativo,2025-04-18
+654,Cliente 0654,João Pessoa,PB,Varejo,2025-06-29
+655,Cliente 0655,Natal,RN,Varejo,2025-01-01
+656,Cliente 0656,Recife,PE,Serviços,2025-08-13
+657,Cliente 0657,Florianópolis,SC,Serviços,2025-03-27
+658,Cliente 0658,Brasília,DF,Serviços,2025-09-10
+659,Cliente 0659,Brasília,DF,Serviços,2025-06-29
+660,Cliente 0660,Rio de Janeiro,RJ,Serviços,2025-02-21
+661,Cliente 0661,Goiânia,GO,Serviços,2025-10-23
+662,Cliente 0662,Curitiba,PR,Atacado,2025-03-25
+663,Cliente 0663,São Paulo,SP,Varejo,2025-01-18
+664,Cliente 0664,Natal,RN,Varejo,2025-06-13
+665,Cliente 0665,Natal,RN,Varejo,2025-02-07
+666,Cliente 0666,Maceió,AL,Atacado,2025-07-12
+667,Cliente 0667,Fortaleza,CE,Varejo,2025-10-08
+668,Cliente 0668,Brasília,DF,Varejo,2025-06-23
+669,Cliente 0669,Belo Horizonte,MG,Serviços,2025-12-27
+670,Cliente 0670,Recife,PE,Serviços,2025-12-01
+671,Cliente 0671,Fortaleza,CE,Serviços,2025-03-22
+672,Cliente 0672,Recife,PE,Varejo,2025-06-19
+673,Cliente 0673,João Pessoa,PB,Atacado,2025-07-29
+674,Cliente 0674,Florianópolis,SC,Corporativo,2025-12-05
+675,Cliente 0675,Natal,RN,Corporativo,2025-05-02
+676,Cliente 0676,Salvador,BA,Varejo,2025-07-21
+677,Cliente 0677,Belo Horizonte,MG,Serviços,2025-03-20
+678,Cliente 0678,Recife,PE,Corporativo,2025-01-02
+679,Cliente 0679,Aracaju,SE,Varejo,2025-05-31
+680,Cliente 0680,Goiânia,GO,Serviços,2025-04-13
+681,Cliente 0681,Salvador,BA,Varejo,2025-04-16
+682,Cliente 0682,Fortaleza,CE,Corporativo,2025-02-11
+683,Cliente 0683,São Paulo,SP,Varejo,2025-06-07
+684,Cliente 0684,Porto Alegre,RS,Serviços,2025-08-30
+685,Cliente 0685,São Paulo,SP,Corporativo,2025-02-16
+686,Cliente 0686,Curitiba,PR,Serviços,2025-04-05
+687,Cliente 0687,Maceió,AL,Serviços,2025-07-09
+688,Cliente 0688,Fortaleza,CE,Serviços,2025-01-23
+689,Cliente 0689,Natal,RN,Serviços,2025-08-27
+690,Cliente 0690,Natal,RN,Atacado,2025-05-18
+691,Cliente 0691,Belo Horizonte,MG,Varejo,2025-03-19
+692,Cliente 0692,Porto Alegre,RS,Varejo,2025-02-13
+693,Cliente 0693,Curitiba,PR,Corporativo,2025-10-05
+694,Cliente 0694,Aracaju,SE,Atacado,2025-10-11
+695,Cliente 0695,Recife,PE,Serviços,2025-09-25
+696,Cliente 0696,Aracaju,SE,Serviços,2025-10-21
+697,Cliente 0697,Brasília,DF,Atacado,2025-09-01
+698,Cliente 0698,Natal,RN,Varejo,2025-07-22
+699,Cliente 0699,Brasília,DF,Varejo,2025-09-15
+700,Cliente 0700,Belo Horizonte,MG,Atacado,2025-03-03
+701,Cliente 0701,Porto Alegre,RS,Serviços,2025-03-30
+702,Cliente 0702,Fortaleza,CE,Atacado,2025-04-09
+703,Cliente 0703,Fortaleza,CE,Varejo,2025-08-05
+704,Cliente 0704,Salvador,BA,Serviços,2025-04-14
+705,Cliente 0705,Goiânia,GO,Atacado,2025-11-01
+706,Cliente 0706,Natal,RN,Corporativo,2025-02-04
+707,Cliente 0707,Salvador,BA,Serviços,2025-10-12
+708,Cliente 0708,Aracaju,SE,Corporativo,2025-05-22
+709,Cliente 0709,Rio de Janeiro,RJ,Serviços,2025-01-07
+710,Cliente 0710,Porto Alegre,RS,Serviços,2025-02-27
+711,Cliente 0711,Aracaju,SE,Atacado,2025-03-17
+712,Cliente 0712,Belo Horizonte,MG,Varejo,2025-02-24
+713,Cliente 0713,Belo Horizonte,MG,Varejo,2025-05-27
+714,Cliente 0714,Goiânia,GO,Corporativo,2025-07-30
+715,Cliente 0715,Natal,RN,Serviços,2025-12-02
+716,Cliente 0716,São Paulo,SP,Serviços,2025-01-20
+717,Cliente 0717,Fortaleza,CE,Corporativo,2025-07-26
+718,Cliente 0718,Fortaleza,CE,Serviços,2025-01-20
+719,Cliente 0719,Aracaju,SE,Corporativo,2025-12-20
+720,Cliente 0720,João Pessoa,PB,Varejo,2025-09-01
+721,Cliente 0721,Brasília,DF,Corporativo,2025-07-10
+722,Cliente 0722,Recife,PE,Corporativo,2025-06-05
+723,Cliente 0723,Natal,RN,Corporativo,2025-09-09
+724,Cliente 0724,Goiânia,GO,Varejo,2025-04-27
+725,Cliente 0725,Fortaleza,CE,Corporativo,2025-08-15
+726,Cliente 0726,Porto Alegre,RS,Corporativo,2025-05-18
+727,Cliente 0727,Florianópolis,SC,Serviços,2025-11-06
+728,Cliente 0728,Curitiba,PR,Varejo,2025-04-07
+729,Cliente 0729,São Paulo,SP,Atacado,2025-07-28
+730,Cliente 0730,Florianópolis,SC,Serviços,2025-09-22
+731,Cliente 0731,Goiânia,GO,Corporativo,2025-01-29
+732,Cliente 0732,Rio de Janeiro,RJ,Atacado,2025-02-03
+733,Cliente 0733,Natal,RN,Serviços,2025-03-11
+734,Cliente 0734,Porto Alegre,RS,Varejo,2025-03-30
+735,Cliente 0735,João Pessoa,PB,Atacado,2025-01-30
+736,Cliente 0736,João Pessoa,PB,Varejo,2025-08-22
+737,Cliente 0737,Recife,PE,Corporativo,2025-12-27
+738,Cliente 0738,João Pessoa,PB,Corporativo,2025-07-08
+739,Cliente 0739,Goiânia,GO,Serviços,2025-09-16
+740,Cliente 0740,Aracaju,SE,Varejo,2025-12-15
+741,Cliente 0741,Recife,PE,Atacado,2025-07-10
+742,Cliente 0742,São Paulo,SP,Serviços,2025-04-01
+743,Cliente 0743,Goiânia,GO,Serviços,2025-10-28
+744,Cliente 0744,Rio de Janeiro,RJ,Corporativo,2025-06-26
+745,Cliente 0745,Fortaleza,CE,Corporativo,2025-12-19
+746,Cliente 0746,Salvador,BA,Corporativo,2025-01-15
+747,Cliente 0747,Aracaju,SE,Varejo,2025-03-25
+748,Cliente 0748,Goiânia,GO,Atacado,2025-04-24
+749,Cliente 0749,Curitiba,PR,Atacado,2025-12-13
+750,Cliente 0750,João Pessoa,PB,Corporativo,2025-11-30
+751,Cliente 0751,Aracaju,SE,Varejo,2025-12-16
+752,Cliente 0752,Recife,PE,Serviços,2025-03-09
+753,Cliente 0753,Curitiba,PR,Atacado,2025-11-04
+754,Cliente 0754,Porto Alegre,RS,Varejo,2025-04-25
+755,Cliente 0755,Natal,RN,Corporativo,2025-12-31
+756,Cliente 0756,Florianópolis,SC,Corporativo,2025-08-05
+757,Cliente 0757,Brasília,DF,Serviços,2025-06-28
+758,Cliente 0758,São Paulo,SP,Corporativo,2025-04-22
+759,Cliente 0759,São Paulo,SP,Corporativo,2025-12-13
+760,Cliente 0760,Rio de Janeiro,RJ,Serviços,2025-10-27
+761,Cliente 0761,Salvador,BA,Varejo,2025-09-19
+762,Cliente 0762,Curitiba,PR,Corporativo,2025-10-15
+763,Cliente 0763,Curitiba,PR,Corporativo,2025-06-02
+764,Cliente 0764,Curitiba,PR,Varejo,2025-09-04
+765,Cliente 0765,Salvador,BA,Corporativo,2025-05-22
+766,Cliente 0766,Curitiba,PR,Corporativo,2025-05-22
+767,Cliente 0767,Natal,RN,Corporativo,2025-04-07
+768,Cliente 0768,Fortaleza,CE,Atacado,2025-01-30
+769,Cliente 0769,Porto Alegre,RS,Serviços,2025-12-05
+770,Cliente 0770,Maceió,AL,Atacado,2025-01-14
+771,Cliente 0771,Curitiba,PR,Serviços,2025-06-01
+772,Cliente 0772,Natal,RN,Serviços,2025-07-27
+773,Cliente 0773,Aracaju,SE,Varejo,2025-10-26
+774,Cliente 0774,Florianópolis,SC,Atacado,2025-06-25
+775,Cliente 0775,Florianópolis,SC,Atacado,2025-12-18
+776,Cliente 0776,Rio de Janeiro,RJ,Serviços,2025-12-10
+777,Cliente 0777,Maceió,AL,Corporativo,2025-03-29
+778,Cliente 0778,Goiânia,GO,Atacado,2025-05-31
+779,Cliente 0779,Salvador,BA,Serviços,2025-03-07
+780,Cliente 0780,Florianópolis,SC,Corporativo,2025-10-14
+781,Cliente 0781,Porto Alegre,RS,Atacado,2025-12-15
+782,Cliente 0782,Brasília,DF,Corporativo,2025-12-02
+783,Cliente 0783,Salvador,BA,Atacado,2025-07-01
+784,Cliente 0784,João Pessoa,PB,Corporativo,2025-08-04
+785,Cliente 0785,Porto Alegre,RS,Corporativo,2025-07-10
+786,Cliente 0786,Natal,RN,Corporativo,2025-08-26
+787,Cliente 0787,Goiânia,GO,Varejo,2025-08-29
+788,Cliente 0788,Recife,PE,Varejo,2025-08-30
+789,Cliente 0789,Brasília,DF,Atacado,2025-09-14
+790,Cliente 0790,Salvador,BA,Serviços,2025-09-29
+791,Cliente 0791,Natal,RN,Serviços,2025-01-28
+792,Cliente 0792,Goiânia,GO,Atacado,2025-03-12
+793,Cliente 0793,João Pessoa,PB,Corporativo,2025-07-29
+794,Cliente 0794,Belo Horizonte,MG,Serviços,2025-03-15
+795,Cliente 0795,Maceió,AL,Atacado,2025-02-11
+796,Cliente 0796,São Paulo,SP,Corporativo,2025-11-20
+797,Cliente 0797,Fortaleza,CE,Corporativo,2025-11-21
+798,Cliente 0798,Recife,PE,Varejo,2025-08-20
+799,Cliente 0799,Natal,RN,Atacado,2025-03-28
+800,Cliente 0800,Belo Horizonte,MG,Atacado,2025-09-08
+801,Cliente 0801,Porto Alegre,RS,Varejo,2025-03-08
+802,Cliente 0802,Belo Horizonte,MG,Serviços,2025-11-21
+803,Cliente 0803,Aracaju,SE,Serviços,2025-08-08
+804,Cliente 0804,São Paulo,SP,Serviços,2025-01-03
+805,Cliente 0805,Recife,PE,Atacado,2025-07-11
+806,Cliente 0806,Recife,PE,Corporativo,2025-09-29
+807,Cliente 0807,João Pessoa,PB,Varejo,2025-12-13
+808,Cliente 0808,Recife,PE,Atacado,2025-04-26
+809,Cliente 0809,Florianópolis,SC,Corporativo,2025-06-09
+810,Cliente 0810,Fortaleza,CE,Varejo,2025-07-16
+811,Cliente 0811,Rio de Janeiro,RJ,Corporativo,2025-03-27
+812,Cliente 0812,Salvador,BA,Varejo,2025-06-02
+813,Cliente 0813,Natal,RN,Serviços,2025-09-24
+814,Cliente 0814,Belo Horizonte,MG,Corporativo,2025-08-11
+815,Cliente 0815,Brasília,DF,Atacado,2025-06-25
+816,Cliente 0816,Brasília,DF,Serviços,2025-07-03
+817,Cliente 0817,Porto Alegre,RS,Atacado,2025-03-26
+818,Cliente 0818,Brasília,DF,Serviços,2025-01-10
+819,Cliente 0819,João Pessoa,PB,Atacado,2025-03-09
+820,Cliente 0820,João Pessoa,PB,Varejo,2025-10-29
+821,Cliente 0821,Rio de Janeiro,RJ,Atacado,2025-03-05
+822,Cliente 0822,Maceió,AL,Varejo,2025-07-12
+823,Cliente 0823,Brasília,DF,Corporativo,2025-10-01
+824,Cliente 0824,Belo Horizonte,MG,Varejo,2025-11-01
+825,Cliente 0825,Recife,PE,Varejo,2025-12-01
+826,Cliente 0826,Goiânia,GO,Varejo,2025-01-25
+827,Cliente 0827,Florianópolis,SC,Varejo,2025-08-02
+828,Cliente 0828,São Paulo,SP,Serviços,2025-03-05
+829,Cliente 0829,Rio de Janeiro,RJ,Corporativo,2025-08-31
+830,Cliente 0830,Florianópolis,SC,Atacado,2025-04-16
+831,Cliente 0831,Florianópolis,SC,Varejo,2025-06-04
+832,Cliente 0832,Aracaju,SE,Varejo,2025-12-06
+833,Cliente 0833,Rio de Janeiro,RJ,Corporativo,2025-11-15
+834,Cliente 0834,Belo Horizonte,MG,Atacado,2025-08-03
+835,Cliente 0835,Goiânia,GO,Varejo,2025-09-19
+836,Cliente 0836,Florianópolis,SC,Varejo,2025-05-25
+837,Cliente 0837,Salvador,BA,Varejo,2025-09-12
+838,Cliente 0838,João Pessoa,PB,Atacado,2025-05-15
+839,Cliente 0839,Goiânia,GO,Atacado,2025-07-03
+840,Cliente 0840,Florianópolis,SC,Serviços,2025-06-01
+841,Cliente 0841,Fortaleza,CE,Varejo,2025-10-08
+842,Cliente 0842,São Paulo,SP,Atacado,2025-12-19
+843,Cliente 0843,Brasília,DF,Serviços,2025-06-19
+844,Cliente 0844,João Pessoa,PB,Varejo,2025-01-07
+845,Cliente 0845,Curitiba,PR,Varejo,2025-02-26
+846,Cliente 0846,Goiânia,GO,Serviços,2025-03-18
+847,Cliente 0847,Salvador,BA,Varejo,2025-02-21
+848,Cliente 0848,Brasília,DF,Corporativo,2025-11-26
+849,Cliente 0849,João Pessoa,PB,Serviços,2025-06-01
+850,Cliente 0850,Natal,RN,Serviços,2025-01-26
+851,Cliente 0851,Salvador,BA,Atacado,2025-01-21
+852,Cliente 0852,Goiânia,GO,Corporativo,2025-07-04
+853,Cliente 0853,Porto Alegre,RS,Corporativo,2025-08-07
+854,Cliente 0854,Florianópolis,SC,Varejo,2025-02-18
+855,Cliente 0855,Goiânia,GO,Varejo,2025-01-05
+856,Cliente 0856,Goiânia,GO,Atacado,2025-12-06
+857,Cliente 0857,Curitiba,PR,Atacado,2025-06-18
+858,Cliente 0858,Maceió,AL,Serviços,2025-11-15
+859,Cliente 0859,Natal,RN,Varejo,2025-07-10
+860,Cliente 0860,Goiânia,GO,Corporativo,2025-04-04
+861,Cliente 0861,Salvador,BA,Serviços,2025-07-24
+862,Cliente 0862,São Paulo,SP,Corporativo,2025-07-17
+863,Cliente 0863,Florianópolis,SC,Serviços,2025-08-04
+864,Cliente 0864,Curitiba,PR,Atacado,2025-02-27
+865,Cliente 0865,Fortaleza,CE,Varejo,2025-03-23
+866,Cliente 0866,Salvador,BA,Serviços,2025-10-30
+867,Cliente 0867,São Paulo,SP,Serviços,2025-04-03
+868,Cliente 0868,Belo Horizonte,MG,Serviços,2025-07-03
+869,Cliente 0869,Belo Horizonte,MG,Varejo,2025-12-17
+870,Cliente 0870,Brasília,DF,Atacado,2025-09-05
+871,Cliente 0871,Brasília,DF,Serviços,2025-02-27
+872,Cliente 0872,Brasília,DF,Serviços,2025-08-14
+873,Cliente 0873,Recife,PE,Varejo,2025-05-14
+874,Cliente 0874,Curitiba,PR,Corporativo,2025-01-07
+875,Cliente 0875,Florianópolis,SC,Atacado,2025-12-09
+876,Cliente 0876,Goiânia,GO,Corporativo,2025-09-23
+877,Cliente 0877,Rio de Janeiro,RJ,Varejo,2025-08-10
+878,Cliente 0878,Curitiba,PR,Atacado,2025-09-04
+879,Cliente 0879,Maceió,AL,Serviços,2025-03-18
+880,Cliente 0880,Goiânia,GO,Varejo,2025-01-06
+881,Cliente 0881,Curitiba,PR,Atacado,2025-09-16
+882,Cliente 0882,Goiânia,GO,Serviços,2025-09-11
+883,Cliente 0883,Goiânia,GO,Atacado,2025-02-08
+884,Cliente 0884,Porto Alegre,RS,Serviços,2025-06-14
+885,Cliente 0885,João Pessoa,PB,Corporativo,2025-05-23
+886,Cliente 0886,Recife,PE,Atacado,2025-10-09
+887,Cliente 0887,Curitiba,PR,Serviços,2025-07-26
+888,Cliente 0888,Goiânia,GO,Atacado,2025-02-10
+889,Cliente 0889,São Paulo,SP,Serviços,2025-10-21
+890,Cliente 0890,São Paulo,SP,Varejo,2025-09-13
+891,Cliente 0891,São Paulo,SP,Corporativo,2025-03-02
+892,Cliente 0892,São Paulo,SP,Varejo,2025-02-22
+893,Cliente 0893,Aracaju,SE,Serviços,2025-01-19
+894,Cliente 0894,Rio de Janeiro,RJ,Varejo,2025-02-16
+895,Cliente 0895,Porto Alegre,RS,Corporativo,2025-09-18
+896,Cliente 0896,Rio de Janeiro,RJ,Atacado,2025-12-02
+897,Cliente 0897,Curitiba,PR,Serviços,2025-06-24
+898,Cliente 0898,Maceió,AL,Varejo,2025-04-25
+899,Cliente 0899,Goiânia,GO,Serviços,2025-06-19
+900,Cliente 0900,Rio de Janeiro,RJ,Serviços,2025-12-03
+901,Cliente 0901,Maceió,AL,Serviços,2025-02-28
+902,Cliente 0902,Salvador,BA,Atacado,2025-01-02
+903,Cliente 0903,Maceió,AL,Corporativo,2025-11-21
+904,Cliente 0904,Porto Alegre,RS,Corporativo,2025-10-08
+905,Cliente 0905,Rio de Janeiro,RJ,Corporativo,2025-12-26
+906,Cliente 0906,Salvador,BA,Varejo,2025-03-26
+907,Cliente 0907,São Paulo,SP,Atacado,2025-07-29
+908,Cliente 0908,Salvador,BA,Corporativo,2025-11-09
+909,Cliente 0909,João Pessoa,PB,Atacado,2025-03-03
+910,Cliente 0910,Brasília,DF,Serviços,2025-04-21
+911,Cliente 0911,São Paulo,SP,Atacado,2025-06-23
+912,Cliente 0912,Salvador,BA,Serviços,2025-01-24
+913,Cliente 0913,Brasília,DF,Varejo,2025-08-19
+914,Cliente 0914,São Paulo,SP,Atacado,2025-09-13
+915,Cliente 0915,Recife,PE,Varejo,2025-10-11
+916,Cliente 0916,Brasília,DF,Serviços,2025-10-27
+917,Cliente 0917,São Paulo,SP,Atacado,2025-12-21
+918,Cliente 0918,Belo Horizonte,MG,Atacado,2025-03-07
+919,Cliente 0919,Salvador,BA,Serviços,2025-12-03
+920,Cliente 0920,Belo Horizonte,MG,Corporativo,2025-09-16
+921,Cliente 0921,Brasília,DF,Serviços,2025-08-03
+922,Cliente 0922,Belo Horizonte,MG,Atacado,2025-05-21
+923,Cliente 0923,Aracaju,SE,Corporativo,2025-05-31
+924,Cliente 0924,São Paulo,SP,Atacado,2025-03-12
+925,Cliente 0925,Aracaju,SE,Corporativo,2025-12-26
+926,Cliente 0926,Rio de Janeiro,RJ,Corporativo,2025-12-31
+927,Cliente 0927,Florianópolis,SC,Atacado,2025-04-13
+928,Cliente 0928,João Pessoa,PB,Corporativo,2025-12-18
+929,Cliente 0929,Maceió,AL,Atacado,2025-12-30
+930,Cliente 0930,Curitiba,PR,Atacado,2025-09-15
+931,Cliente 0931,Rio de Janeiro,RJ,Corporativo,2025-12-30
+932,Cliente 0932,Salvador,BA,Corporativo,2025-10-15
+933,Cliente 0933,São Paulo,SP,Serviços,2025-12-12
+934,Cliente 0934,Florianópolis,SC,Corporativo,2025-08-05
+935,Cliente 0935,Porto Alegre,RS,Varejo,2025-09-25
+936,Cliente 0936,Salvador,BA,Varejo,2025-07-15
+937,Cliente 0937,Fortaleza,CE,Varejo,2025-12-10
+938,Cliente 0938,Recife,PE,Atacado,2025-05-17
+939,Cliente 0939,Porto Alegre,RS,Atacado,2025-05-27
+940,Cliente 0940,Curitiba,PR,Corporativo,2025-03-16
+941,Cliente 0941,Goiânia,GO,Varejo,2025-12-20
+942,Cliente 0942,Porto Alegre,RS,Corporativo,2025-04-15
+943,Cliente 0943,Porto Alegre,RS,Varejo,2025-07-03
+944,Cliente 0944,Goiânia,GO,Serviços,2025-02-22
+945,Cliente 0945,Belo Horizonte,MG,Atacado,2025-11-28
+946,Cliente 0946,Rio de Janeiro,RJ,Serviços,2025-05-02
+947,Cliente 0947,Rio de Janeiro,RJ,Corporativo,2025-12-21
+948,Cliente 0948,Curitiba,PR,Varejo,2025-07-15
+949,Cliente 0949,Aracaju,SE,Serviços,2025-12-17
+950,Cliente 0950,Maceió,AL,Varejo,2025-01-07
+951,Cliente 0951,Florianópolis,SC,Corporativo,2025-04-14
+952,Cliente 0952,Belo Horizonte,MG,Serviços,2025-04-26
+953,Cliente 0953,Brasília,DF,Corporativo,2025-10-29
+954,Cliente 0954,Rio de Janeiro,RJ,Atacado,2025-04-10
+955,Cliente 0955,Natal,RN,Serviços,2025-04-01
+956,Cliente 0956,Curitiba,PR,Varejo,2025-04-06
+957,Cliente 0957,Fortaleza,CE,Varejo,2025-07-13
+958,Cliente 0958,Recife,PE,Serviços,2025-05-23
+959,Cliente 0959,Rio de Janeiro,RJ,Corporativo,2025-03-08
+960,Cliente 0960,Fortaleza,CE,Corporativo,2025-01-03
+961,Cliente 0961,Maceió,AL,Serviços,2025-12-30
+962,Cliente 0962,Brasília,DF,Atacado,2025-01-21
+963,Cliente 0963,Fortaleza,CE,Corporativo,2025-11-02
+964,Cliente 0964,Recife,PE,Corporativo,2025-09-09
+965,Cliente 0965,Porto Alegre,RS,Corporativo,2025-02-07
+966,Cliente 0966,Porto Alegre,RS,Corporativo,2025-09-27
+967,Cliente 0967,João Pessoa,PB,Atacado,2025-09-24
+968,Cliente 0968,Salvador,BA,Atacado,2025-08-01
+969,Cliente 0969,Rio de Janeiro,RJ,Serviços,2025-02-17
+970,Cliente 0970,Maceió,AL,Atacado,2025-04-20
+971,Cliente 0971,Curitiba,PR,Corporativo,2025-06-19
+972,Cliente 0972,Maceió,AL,Corporativo,2025-04-22
+973,Cliente 0973,Porto Alegre,RS,Serviços,2025-10-15
+974,Cliente 0974,Goiânia,GO,Varejo,2025-02-28
+975,Cliente 0975,Curitiba,PR,Corporativo,2025-08-17
+976,Cliente 0976,João Pessoa,PB,Atacado,2025-01-21
+977,Cliente 0977,Curitiba,PR,Corporativo,2025-07-15
+978,Cliente 0978,Brasília,DF,Varejo,2025-07-17
+979,Cliente 0979,Natal,RN,Corporativo,2025-01-13
+980,Cliente 0980,Brasília,DF,Corporativo,2025-09-21
+981,Cliente 0981,Porto Alegre,RS,Serviços,2025-09-07
+982,Cliente 0982,Recife,PE,Corporativo,2025-11-30
+983,Cliente 0983,João Pessoa,PB,Corporativo,2025-09-21
+984,Cliente 0984,Salvador,BA,Varejo,2025-03-27
+985,Cliente 0985,Porto Alegre,RS,Varejo,2025-11-17
+986,Cliente 0986,Salvador,BA,Atacado,2025-12-10
+987,Cliente 0987,Curitiba,PR,Atacado,2025-12-17
+988,Cliente 0988,Aracaju,SE,Varejo,2025-04-16
+989,Cliente 0989,Rio de Janeiro,RJ,Serviços,2025-11-28
+990,Cliente 0990,Goiânia,GO,Varejo,2025-12-18
+991,Cliente 0991,Fortaleza,CE,Varejo,2025-08-24
+992,Cliente 0992,Florianópolis,SC,Corporativo,2025-01-20
+993,Cliente 0993,Salvador,BA,Varejo,2025-01-28
+994,Cliente 0994,Fortaleza,CE,Corporativo,2025-10-13
+995,Cliente 0995,Salvador,BA,Atacado,2025-05-13
+996,Cliente 0996,Aracaju,SE,Serviços,2025-08-19
+997,Cliente 0997,Curitiba,PR,Serviços,2025-08-10
+998,Cliente 0998,Maceió,AL,Varejo,2025-07-19
+999,Cliente 0999,Curitiba,PR,Varejo,2025-10-01
+1000,Cliente 1000,Recife,PE,Varejo,2025-10-27
