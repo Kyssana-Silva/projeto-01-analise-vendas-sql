@@ -1,3 +1,8 @@
+Pergunta de negócio que responde
+
+Qual o faturamento mensal do ano de 2025?
+     
+
 WITH vendas_filtradas AS ( 
 SELECT v.data_venda,
      i.quantidade,
