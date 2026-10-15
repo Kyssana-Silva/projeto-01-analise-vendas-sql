@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Projeto desenvolvido para analisar dados fictícios
+Projeto desenvolvido para fins didáticos e prática pessoal de analise de dados fictícios
 de vendas utilizando PostgreSQL e SQL.
 
 ## Objetivo
