@@ -1,7 +1,11 @@
 Pergunta de negócio que responde
 
 Qual o faturamento mensal do ano de 2025?
+<<<<<<< HEAD
      
+=======
+
+>>>>>>> d20259b (Adiciona CTE em multiplas camadas)
 
 WITH vendas_filtradas AS ( 
 SELECT v.data_venda,
